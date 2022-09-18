@@ -1,12 +1,3 @@
-"""
-COMS 4705 Natural Language Processing Spring 2021
-Kathy McKeown
-Homework 2: Emotion Classification with Neural Networks - Main File
-
-Ling Sun
-ls3759
-"""
-
 # Imports
 import nltk
 import numpy as np
