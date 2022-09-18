@@ -1,5 +1,0 @@
-git tutorial
-new line
-another line
-line 5
-line 4
